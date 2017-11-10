@@ -1,0 +1,62 @@
+{
+	"auto_find_in_selection": true,
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.a",
+		"*.lib",
+		"*.o",
+		"*.so",
+		"*.so.*",
+		"*.sublime-workspace",
+		"*.img",
+		"*.bin",
+		"*.la",
+		"*.lai",
+		"*.m4",
+		"*.sig",
+		"*.sec",
+		"*.enc",
+		"*.hash",
+		"*.ts",
+		"*.png",
+		"*.jpg",
+		"*.image",
+		"*.log",
+		"*.reviewboardrc",
+		"*.tar.gz",
+		"*.bin.signed",
+		"*.ko"
+	],
+	"folder_exclude_patterns":
+	[
+		"initramfs",
+		"images",
+		".svn",
+		".vscode",
+		"bsign",
+		"tests",
+		"src/boost",
+		"src/busybox",
+		"src/linux/Documentation",
+		"GPL",
+		"*/.libs"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"show_encoding": false,
+	"show_line_endings": false,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
