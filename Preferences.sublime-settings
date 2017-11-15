@@ -29,7 +29,9 @@
         "*.reviewboardrc",
         "*.tar.gz",
         "*.bin.signed",
-        "*.ko"
+        "*.ko",
+        "*.sublime-project",
+        "*.sublime-workspace"
     ],
     "folder_exclude_patterns":
     [
@@ -42,7 +44,9 @@
         "src/busybox",
         "src/linux/Documentation",
         "GPL",
-        "*/.libs"
+        "*/.libs",
+        "CMakeFiles",
+        "*/.git"
     ],
     "font_size": 10,
     "ignored_packages":
