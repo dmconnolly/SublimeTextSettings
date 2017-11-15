@@ -37,7 +37,6 @@
 		".svn",
 		".vscode",
 		"bsign",
-		"tests",
 		"src/boost",
 		"src/busybox",
 		"src/linux/Documentation",
