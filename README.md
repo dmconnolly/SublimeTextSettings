@@ -1,4 +1,4 @@
-# SublimeTextSettings
+# sublime-text-config
 
 Clone into package settings: -
 
