@@ -1,0 +1,3 @@
+[submodule "sublime-monokai-free"]
+    path = monokai-free-modified
+    url = https://github.com/flau/sublime-monokai-free

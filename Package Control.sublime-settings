@@ -6,13 +6,12 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
-		"C Improved",
+		"ChannelRepositoryTools",
 		"CMake",
 		"Dockerfile Syntax Highlighting",
 		"Function Name Display",
 		"HexViewer",
 		"Modific",
-		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements",
 		"TrailingSpaces"
