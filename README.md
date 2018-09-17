@@ -1,8 +1,10 @@
 # sublime-text-config
 
+
 ## Linux
 Clone into : -
 ~/.config/sublime-text-3/Packages/User
+
 
 ## Windows
 Clone into : -
