@@ -2,7 +2,7 @@
 
 Clone into package settings: -
 
-Unix -
+Linux -
 ~/.config/sublime-text-3/Packages/User
 
 Windows -
