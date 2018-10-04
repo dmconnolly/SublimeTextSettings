@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"AutoHotkey",
 		"BracketHighlighter",
 		"ChannelRepositoryTools",
 		"CMake",
 		"Dockerfile Syntax Highlighting",
 		"Function Name Display",
 		"HexViewer",
+		"Markdown Extended",
 		"Modific",
 		"Package Control",
 		"SideBarEnhancements",
