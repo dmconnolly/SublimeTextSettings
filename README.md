@@ -1,9 +1,11 @@
 # sublime-text-config
 
-Clone into package settings: -
-
-Unix -
+## Linux
+Clone into :</br>
 ~/.config/sublime-text-3/Packages/User
 
-Windows -
+</br>
+
+## Windows
+Clone into :</br>
 %appdata%\Sublime Text 3\Packages\User
